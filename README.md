@@ -81,6 +81,3 @@ DataFortress-shell provides extensive configuration options to tailor the backup
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it according to the terms of the license.
 
-## Acknowledgements
-
-DataFortress-shell wouldn't be possible without the support and contributions of the open-source community. Special thanks to all the developers, testers, and users who have helped improve and refine this tool.
